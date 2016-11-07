@@ -1,0 +1,19 @@
+{
+  "name": "scrum-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggarber/scrum-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggarber/scrum-bot/issues"
+  },
+  "homepage": "https://github.com/ggarber/scrum-bot#readme"
+}
